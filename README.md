@@ -12,7 +12,7 @@ I'm Alexei—also known as **Yehoshama**. I believe in engineering with purpose,
 
 ## 📚 What You'll Find Here
 
-- **📝 [Blogs](https://github.com/Yehoshama/Yehoshama/wiki/The-Yehoshama-Log) & Essays**  
+- **📝 [Blogs](https://github.com/Yehoshama/Yehoshama/wiki) & Essays**  
   Reflections on software, systems, and the philosophy behind the build.
 
 - **📐 Coding Paradigms**  
